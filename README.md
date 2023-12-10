@@ -17,7 +17,7 @@ This Python script serves as a Moodle scraper, extracting assignments from the u
 [
   {
     "question": "Which of the following is NOT a learning and support tool for application software?",
-    "answers": [
+    "choices": [
       "a. Online tutorial",
       "b. Software update",
       "c. User guide",
@@ -27,7 +27,7 @@ This Python script serves as a Moodle scraper, extracting assignments from the u
   },
   {
     "question": "What is a man-in-the-middle attack?",
-    "answers": [
+    "choices": [
       "a. An attack that redirects users to malicious websites.",
       "b. An attack that intercepts communications between two parties and impersonates one of the parties.",
       "c. An attack that overwhelms computer systems or networks with traffic, making them unavailable to users.An attack that attempts to break encryption.",
@@ -37,7 +37,7 @@ This Python script serves as a Moodle scraper, extracting assignments from the u
   },
   {
     "question": "1-You should only install software from trusted sources.",
-    "answers": [
+    "choices": [
       "True",
       "False"
     ],
