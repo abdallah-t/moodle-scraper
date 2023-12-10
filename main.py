@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import pprint
 import json
+import subprocess
 
 # Constants
 HTML_FILE_PATH = './data.html'
@@ -110,6 +111,18 @@ def convert_to_latex(questions):
 
     return latex_code
 
+def generate_pdf_from_latex(tex_file):
+    try:
+        # Build the PDF with pdflatex
+        subprocess.run(["pdflatex", tex_file], check=True)
+        print("PDF successfully generated.")
+    
+        # Clean up with latexmk -c
+        subprocess.run(["latexmk", tex_file, "-c"], check=True)
+        print("Intermediate files removed.")
+    except subprocess.CalledProcessError as e:
+        print(f"Error building PDF: {e}")
+
 
 def main():
     html_content = read_html(HTML_FILE_PATH)
@@ -123,13 +136,16 @@ def main():
 
 
     export_to_json(question_dict_list, f"{GENERATED_FILE_NAME}.json")
-    print(f'json data exported to {GENERATED_FILE_NAME}.json')
+    json_file_path = f"{GENERATED_FILE_NAME}.json"
+    print(f'json data exported to {json_file_path}')
     
     latex_code = convert_to_latex(question_dict_list)
+    tex_file_path = f"{GENERATED_FILE_NAME}.tex"
     with open(f"{GENERATED_FILE_NAME}.tex", "w") as file:
         file.write(latex_code)
-    print(f'LaTeX file has been made in {GENERATED_FILE_NAME}.tex')
+    print(f'LaTeX file has been made in {tex_file_path}')
 
+    generate_pdf_from_latex(tex_file_path)
 
 
 

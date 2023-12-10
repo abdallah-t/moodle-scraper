@@ -1,0 +1,238 @@
+[
+  {
+    "question": "Which of the following is NOT a learning and support tool for application software?",
+    "answers": [
+      "a. Online tutorial",
+      "b. Software update",
+      "c. User guide",
+      "d. Online forum or community"
+    ],
+    "correct_answer": "b. Software update"
+  },
+  {
+    "question": "What is a man-in-the-middle attack?",
+    "answers": [
+      "a. An attack that redirects users to malicious websites.",
+      "b. An attack that intercepts communications between two parties and impersonates one of the parties.",
+      "c. An attack that overwhelms computer systems or networks with traffic, making them unavailable to users.An attack that attempts to break encryption.",
+      "d. An attack that overwhelms computer systems or networks with traffic, making them unavailable to users."
+    ],
+    "correct_answer": "b. An attack that intercepts communications between two parties and impersonates one of the parties."
+  },
+  {
+    "question": "1-You should only install software from trusted sources.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "True"
+  },
+  {
+    "question": "What is malware?",
+    "answers": [
+      "a. Attacks that attempt to make computer systems or networks unavailable to users.",
+      "b. Unauthorized access to computer systems or networks.",
+      "c. Emails or websites that try to trick users into revealing personal information.",
+      "d. Malicious software, such as viruses, worms, and Trojan horses."
+    ],
+    "correct_answer": "d. Malicious software, such as viruses, worms, and Trojan horses."
+  },
+  {
+    "question": "Anti-static wristbands are required when troubleshooting hardware problems.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "False"
+  },
+  {
+    "question": "What is a DNS poisoning attack?",
+    "answers": [
+      "a. An attack that overwhelms computer systems or networks with traffic, making them unavailable to users.",
+      "b. An attack that redirects users to malicious websites.",
+      "c. An attack that attempts to break encryption.",
+      "d. An attack that intercepts communications between two parties and impersonates one of the parties."
+    ],
+    "correct_answer": "b. An attack that redirects users to malicious websites."
+  },
+  {
+    "question": "What is the difference between a communication network and a computer network?",
+    "answers": [
+      "a. A communication network is used to transmit data over long distances, while a computer network is used to connect devices within a small area.",
+      "b. A communication network is used to transmit data over a variety of media, such as copper wires, fiber optic cables, and radio waves, while a computer network is typically used to transmit data over copper wires.",
+      "c. There is no difference between a communication network and a computer network.",
+      "d. A communication network is used to transmit data between two or more devices, while a computer network is used to connect computers together."
+    ],
+    "correct_answer": "d. A communication network is used to transmit data between two or more devices, while a computer network is used to connect computers together."
+  },
+  {
+    "question": "What is the purpose of gathering information during the troubleshooting process?",
+    "answers": [
+      "a. To verify that the solution has resolved the problem",
+      "b. All of the above",
+      "c. To identify the cause of the problem",
+      "d. To develop a solution to the problem"
+    ],
+    "correct_answer": "b. All of the above"
+  },
+  {
+    "question": "What is the first step in the troubleshooting methodology?",
+    "answers": [
+      "a. All of the above",
+      "b. To develop a solution to the problem",
+      "c. To verify that the solution has resolved the problem",
+      "d. Identify the problem"
+    ],
+    "correct_answer": "d. Identify the problem"
+  },
+  {
+    "question": "What is phishing?",
+    "answers": [
+      "a. Malicious software, such as viruses, worms, and Trojan horses.",
+      "b. Attacks that attempt to make computer systems or networks unavailable to users.",
+      "c. Emails or websites that try to trick users into revealing personal information.",
+      "d. Unauthorized access to computer systems or networks."
+    ],
+    "correct_answer": "c. Emails or websites that try to trick users into revealing personal information."
+  },
+  {
+    "question": "What is the best way to troubleshoot a problem that you can't figure out on your own?",
+    "answers": [
+      "a. Ask a friend or colleague for help",
+      "b. Search the internet for help",
+      "c. Contact the manufacturer of your hardware or software",
+      "d. All of the above"
+    ],
+    "correct_answer": "d. All of the above"
+  },
+  {
+    "question": "Computer security is only important for businesses.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "False"
+  },
+  {
+    "question": "Which of the following is an example of application software for communication?",
+    "answers": [
+      "a. Spreadsheet",
+      "b. Word processor",
+      "c. All of the above",
+      "d. Email client"
+    ],
+    "correct_answer": "d. Email client"
+  },
+  {
+    "question": "1-A communication network is a system of interconnected devices that allows users to communicate with each other.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "True"
+  },
+  {
+    "question": "What is the best way to troubleshoot overheating problems?",
+    "answers": [
+      "a. Use a cooling pad or fan to keep your laptop cool",
+      "b. Clean the dust out of your computer case and fans",
+      "c. All of the above",
+      "d. Make sure that your computer is properly ventilated"
+    ],
+    "correct_answer": "c. All of the above"
+  },
+  {
+    "question": "Antivirus software is enough to protect your computer from all security threats.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "False"
+  },
+  {
+    "question": "You should never use public Wi-Fi networks EVEN if you are using a VPN.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "False"
+  },
+  {
+    "question": "What are the benefits of using a cloud-based video conferencing system for business communication?",
+    "answers": [
+      "a. It is secure, reliable, and offers high-quality video and audio.",
+      "b. It is compatible with all devices and operating systems.",
+      "c. All of the above.",
+      "d. It is easy to use, affordable, scalable, and accessible from anywhere."
+    ],
+    "correct_answer": "c. All of the above."
+  },
+  {
+    "question": "What is VoIP?",
+    "answers": [
+      "a. All of the above",
+      "b. Voice over IP",
+      "c. Virtual Private Network",
+      "d. Video over IP"
+    ],
+    "correct_answer": "b. Voice over IP"
+  },
+  {
+    "question": "What is the best way to troubleshoot dropped packets?",
+    "answers": [
+      "a. Update the firmware on your network devices",
+      "b. Check the network cables for damage",
+      "c. All of the above",
+      "d. Reduce the amount of traffic on your network"
+    ],
+    "correct_answer": "c. All of the above"
+  },
+  {
+    "question": "What is the best way to prevent hardware and network problems from occurring?",
+    "answers": [
+      "a. Use a firewall and antivirus software",
+      "b. All of the above",
+      "c. Regularly back up your data",
+      "d. Keep your software up to date"
+    ],
+    "correct_answer": "b. All of the above"
+  },
+  {
+    "question": "What is the best way to test a hypothesis during the troubleshooting process?",
+    "answers": [
+      "a. Perform tests that are relevant to the hypothesis",
+      "b. All of the above",
+      "c. Use multiple tests to confirm or disprove the hypothesis",
+      "d. Document the results of the tests"
+    ],
+    "correct_answer": "b. All of the above"
+  },
+  {
+    "question": "What is the most common cause of slow internet speeds?",
+    "answers": [
+      "a. High network traffic",
+      "b. Weak Wi-Fi signal",
+      "c. Faulty network hardware",
+      "d. All of the above"
+    ],
+    "correct_answer": "d. All of the above"
+  },
+  {
+    "question": "What is the best way to troubleshoot lost connections?",
+    "answers": [
+      "a. Ping devices on your network to test connectivity",
+      "b. Restart your network router and modem",
+      "c. All of the above",
+      "d. Check the physical connections between your devices and your network"
+    ],
+    "correct_answer": "c. All of the above"
+  },
+  {
+    "question": "It is okay to reuse passwords for different accounts.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "False"
+  }
+]
