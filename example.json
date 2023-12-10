@@ -1,7 +1,7 @@
 [
   {
     "question": "Which of the following is NOT a learning and support tool for application software?",
-    "answers": [
+    "choices": [
       "a. Online tutorial",
       "b. Software update",
       "c. User guide",
@@ -11,7 +11,7 @@
   },
   {
     "question": "What is a man-in-the-middle attack?",
-    "answers": [
+    "choices": [
       "a. An attack that redirects users to malicious websites.",
       "b. An attack that intercepts communications between two parties and impersonates one of the parties.",
       "c. An attack that overwhelms computer systems or networks with traffic, making them unavailable to users.An attack that attempts to break encryption.",
@@ -21,7 +21,7 @@
   },
   {
     "question": "1-You should only install software from trusted sources.",
-    "answers": [
+    "choices": [
       "True",
       "False"
     ],
@@ -29,7 +29,7 @@
   },
   {
     "question": "What is malware?",
-    "answers": [
+    "choices": [
       "a. Attacks that attempt to make computer systems or networks unavailable to users.",
       "b. Unauthorized access to computer systems or networks.",
       "c. Emails or websites that try to trick users into revealing personal information.",
@@ -39,7 +39,7 @@
   },
   {
     "question": "Anti-static wristbands are required when troubleshooting hardware problems.",
-    "answers": [
+    "choices": [
       "True",
       "False"
     ],
@@ -47,7 +47,7 @@
   },
   {
     "question": "What is a DNS poisoning attack?",
-    "answers": [
+    "choices": [
       "a. An attack that overwhelms computer systems or networks with traffic, making them unavailable to users.",
       "b. An attack that redirects users to malicious websites.",
       "c. An attack that attempts to break encryption.",
@@ -57,7 +57,7 @@
   },
   {
     "question": "What is the difference between a communication network and a computer network?",
-    "answers": [
+    "choices": [
       "a. A communication network is used to transmit data over long distances, while a computer network is used to connect devices within a small area.",
       "b. A communication network is used to transmit data over a variety of media, such as copper wires, fiber optic cables, and radio waves, while a computer network is typically used to transmit data over copper wires.",
       "c. There is no difference between a communication network and a computer network.",
@@ -67,7 +67,7 @@
   },
   {
     "question": "What is the purpose of gathering information during the troubleshooting process?",
-    "answers": [
+    "choices": [
       "a. To verify that the solution has resolved the problem",
       "b. All of the above",
       "c. To identify the cause of the problem",
@@ -77,7 +77,7 @@
   },
   {
     "question": "What is the first step in the troubleshooting methodology?",
-    "answers": [
+    "choices": [
       "a. All of the above",
       "b. To develop a solution to the problem",
       "c. To verify that the solution has resolved the problem",
@@ -87,7 +87,7 @@
   },
   {
     "question": "What is phishing?",
-    "answers": [
+    "choices": [
       "a. Malicious software, such as viruses, worms, and Trojan horses.",
       "b. Attacks that attempt to make computer systems or networks unavailable to users.",
       "c. Emails or websites that try to trick users into revealing personal information.",
@@ -97,7 +97,7 @@
   },
   {
     "question": "What is the best way to troubleshoot a problem that you can't figure out on your own?",
-    "answers": [
+    "choices": [
       "a. Ask a friend or colleague for help",
       "b. Search the internet for help",
       "c. Contact the manufacturer of your hardware or software",
@@ -107,7 +107,7 @@
   },
   {
     "question": "Computer security is only important for businesses.",
-    "answers": [
+    "choices": [
       "True",
       "False"
     ],
@@ -115,7 +115,7 @@
   },
   {
     "question": "Which of the following is an example of application software for communication?",
-    "answers": [
+    "choices": [
       "a. Spreadsheet",
       "b. Word processor",
       "c. All of the above",
@@ -125,7 +125,7 @@
   },
   {
     "question": "1-A communication network is a system of interconnected devices that allows users to communicate with each other.",
-    "answers": [
+    "choices": [
       "True",
       "False"
     ],
@@ -133,7 +133,7 @@
   },
   {
     "question": "What is the best way to troubleshoot overheating problems?",
-    "answers": [
+    "choices": [
       "a. Use a cooling pad or fan to keep your laptop cool",
       "b. Clean the dust out of your computer case and fans",
       "c. All of the above",
@@ -143,7 +143,7 @@
   },
   {
     "question": "Antivirus software is enough to protect your computer from all security threats.",
-    "answers": [
+    "choices": [
       "True",
       "False"
     ],
@@ -151,7 +151,7 @@
   },
   {
     "question": "You should never use public Wi-Fi networks EVEN if you are using a VPN.",
-    "answers": [
+    "choices": [
       "True",
       "False"
     ],
@@ -159,7 +159,7 @@
   },
   {
     "question": "What are the benefits of using a cloud-based video conferencing system for business communication?",
-    "answers": [
+    "choices": [
       "a. It is secure, reliable, and offers high-quality video and audio.",
       "b. It is compatible with all devices and operating systems.",
       "c. All of the above.",
@@ -169,7 +169,7 @@
   },
   {
     "question": "What is VoIP?",
-    "answers": [
+    "choices": [
       "a. All of the above",
       "b. Voice over IP",
       "c. Virtual Private Network",
@@ -179,7 +179,7 @@
   },
   {
     "question": "What is the best way to troubleshoot dropped packets?",
-    "answers": [
+    "choices": [
       "a. Update the firmware on your network devices",
       "b. Check the network cables for damage",
       "c. All of the above",
@@ -189,7 +189,7 @@
   },
   {
     "question": "What is the best way to prevent hardware and network problems from occurring?",
-    "answers": [
+    "choices": [
       "a. Use a firewall and antivirus software",
       "b. All of the above",
       "c. Regularly back up your data",
@@ -199,7 +199,7 @@
   },
   {
     "question": "What is the best way to test a hypothesis during the troubleshooting process?",
-    "answers": [
+    "choices": [
       "a. Perform tests that are relevant to the hypothesis",
       "b. All of the above",
       "c. Use multiple tests to confirm or disprove the hypothesis",
@@ -209,7 +209,7 @@
   },
   {
     "question": "What is the most common cause of slow internet speeds?",
-    "answers": [
+    "choices": [
       "a. High network traffic",
       "b. Weak Wi-Fi signal",
       "c. Faulty network hardware",
@@ -219,7 +219,7 @@
   },
   {
     "question": "What is the best way to troubleshoot lost connections?",
-    "answers": [
+    "choices": [
       "a. Ping devices on your network to test connectivity",
       "b. Restart your network router and modem",
       "c. All of the above",
@@ -229,7 +229,7 @@
   },
   {
     "question": "It is okay to reuse passwords for different accounts.",
-    "answers": [
+    "choices": [
       "True",
       "False"
     ],

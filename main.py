@@ -71,7 +71,7 @@ def create_question_dict_list(questions, all_answers, all_correct_answers):
     for i in range(len(questions)):
         question_dict = {
             'question': questions[i],
-            'answers': all_answers[i],
+            'choices': all_answers[i],
             'correct_answer': all_correct_answers[i]
         }
         question_dict_list.append(question_dict)
