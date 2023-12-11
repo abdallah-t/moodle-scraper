@@ -93,6 +93,6 @@ Customize the LaTeX document by modifying the `convert_to_latex` function in the
 
 This script is licensed under the [MIT License](LICENSE).
 
-Feel free to use, modify, and distribute this script according to the terms of the license. If you encounter any issues or have suggestions for improvement, please [open an issue](https://github.com/yourusername/exam-generator/issues).
+Feel free to use, modify, and distribute this script according to the terms of the license. If you encounter any issues or have suggestions for improvement, please open an issue
 
 Happy studying!
